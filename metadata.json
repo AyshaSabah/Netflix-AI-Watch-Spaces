@@ -1,0 +1,8 @@
+{
+  "name": "Netflix AI Watch Spaces",
+  "description": "A Netflix-style social watch party space with synchronized video playback, real-time live chat, timeline trivia cards, and an AI co-pilot powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
